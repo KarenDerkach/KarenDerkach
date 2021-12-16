@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Karen Derkach</h1>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<h3> About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing new projects.
 - 🎓 &nbsp; Studying Developer Web Full Stack of Henry Academy and I'm Accountant
@@ -9,7 +9,7 @@
 - 🌱 &nbsp; Learning more about SCRUM, Data Base and different frameworks.
 - ✍️ &nbsp; I'm currently working on a group project about food.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3>Tech Stack</h3>
 
 - 💻 &nbsp;
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -41,7 +41,7 @@
 <br/>
 
 
-<h3> 🤝🏻 &nbsp;Connect with me: </h3>
+<h3> Connect with me </h3>
 <p aling="center">
 <a href="https://www.linkedin.com/in/karen-derkach">
   <img align="center" alt="KarenDerkach Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
