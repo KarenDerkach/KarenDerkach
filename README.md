@@ -42,7 +42,7 @@
 
 
 <h3> 🤝🏻 &nbsp;Connect with me: </h3>
-
+<p aling="center">
 <a href="https://www.linkedin.com/in/karen-derkach">
   <img align="center" alt="KarenDerkach Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -53,13 +53,13 @@
   <img align="center" alt="KarenDerkach Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://wa.me/5493764653483">
-  <img align="center" alt="Ashwani's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+  <img align="center" alt="KarenDerkach WhatsApp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
 </a>
+  </p>
 
 <br/>
 
-
-- 📫 How to reach me: message me at derkach.m.karen@gmail.com
+ <img align="center" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />   derkach.m.karen@gmail.com
 
 
 <br/>
